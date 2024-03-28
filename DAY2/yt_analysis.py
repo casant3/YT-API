@@ -1,9 +1,9 @@
 from googleapiclient.discovery import build
+from api_key import api_key
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-api_key = 'AIzaSyAjgqXA5IylIHaKkI6o_tsSK8tYy6n8WbU'
 channel_ids = [#'UCX6OQ3DkcsbYNE6H8uQQuVA', #MrBeast
               'UCDogdKl7t7NHzQ95aEwkdMw', #Sidemen
               'UCBJycsmduvYEL83R_U4JriQ', #Marques Brownlee
