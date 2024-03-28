@@ -4,6 +4,7 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 
+#add your own api key
 channel_ids = [#'UCX6OQ3DkcsbYNE6H8uQQuVA', #MrBeast
               'UCDogdKl7t7NHzQ95aEwkdMw', #Sidemen
               'UCBJycsmduvYEL83R_U4JriQ', #Marques Brownlee
